@@ -1,8 +1,8 @@
 package House_construction;
 
 public class House {
-		String material;
-		House(String material){
+		int material;
+		House(int material){
 			this.material=material;
 		}
 		
